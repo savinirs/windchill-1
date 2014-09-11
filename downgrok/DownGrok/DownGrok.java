@@ -1,7 +1,8 @@
 import java.io.*;
 import java.net.*;
 /**
- * 
+ * This is a sample file to test internal website download function.
+ * Please don't use this code as a sample to learn Java.
  */
 
 /**
